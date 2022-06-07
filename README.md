@@ -4,8 +4,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuhpquang&label=Profile%20views&color=0e75b6&style=flat" alt="vuhpquang" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuhpquang" alt="vuhpquang" /></a> </p>  
-  
 <p align="left"> <a href="https://twitter.com/quangvu2809" target="blank"><img src="https://img.shields.io/twitter/follow/quangvu2809?logo=twitter&style=for-the-badge" alt="quangvu2809" /></a> </p>  
   
 - 🌱 I’m currently learning **Flutter & Unity**
