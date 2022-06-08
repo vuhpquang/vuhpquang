@@ -17,6 +17,20 @@
 <a href="https://fb.com/quangvu2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangvu2809" height="30" width="40" /></a>  
 </p>  
 
+## 🥞 Tech Stack
+ 
+I work with many different technologies and languages. 
+My favorite ones are React-Native, Unity, ReactJS, Node.js, Next.js and Flutter.
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React-Native" alt="React-Native Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" title="Unity" alt="Unity Logo" width="120"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="ReactJS" alt="ReactJS Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
+<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Logo" width="120"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" title="Flutter" alt="Flutter Logo" width="50"/>&emsp;
+
+ <br>
+
 ![](https://github-readme-stats.vercel.app/api?username=vuhpquang&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vuhpquang&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vuhpquang&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
